@@ -1,9 +1,9 @@
 ---
 name: Tarefa
-about: Registro de uma tarefa referente ao Programa de bolsa viagem para Python Brasil 2022
-title: "<Descrição curta da tarefa> (Dica: comece sempre com um verbo)"
-labels: ''
-assignees: ''
+Descrição: Registro de uma tarefa referente ao Programa de bolsa viagem para Python Brasil 2022
+Título: "<Descrição curta da tarefa> (Dica: comece sempre com um verbo)"
+Rótulos: ''
+Responsáveis: ''
 
 ---
 
@@ -13,7 +13,7 @@ assignees: ''
 
 ### Requisitos para a atividade ser considerada como concluída
 
-*Por exemplo: "- Levantar custo individual para ida e permanencia em Manaus durante o evento."*
+*Por exemplo: "- Levantar custo individual para ida e permanência em Manaus durante o evento."*
 
 - Item 1
 - Item 2
