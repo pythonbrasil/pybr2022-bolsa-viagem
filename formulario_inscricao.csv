@@ -1,0 +1,35 @@
+pergunta,tipo_dado,tipo_campo_resposta,valores_predeterminados
+Nome completo?,string,texto curto,
+Idade?,integer,texto curto,
+E-mail?,string,texto curto,
+Telefone?,string,texto curto,
+Telegram?,string,texto curto,
+Estado que reside?,string,multipla escolha,AC; AL; AP; AM; BA; CE; DF; ES; GO; MA; MT; MS; MG; PA; PB; PR; PE; PI; RJ; RN; RS; RO; RR; SC; SP; SE; TO.
+Cidade que reside?,string,texto curto,
+Possui alguma necessidade específica? ,string,multipla escolha,Sim; Não
+"Se marcou SIM na pergunta anterior, descreva aqui os detalhes, por favor.",string,texto curto,
+Com qual gênero se identifica?,string,multipla escolha,Mulher; Homem; Não-Binarie; Prefiro não responder; Outra
+"Você faz parte da população T(Pessoa Transgênera, Travesti)?",string,multipla escolha,Sim; Não
+Qual a sua orientação sexual?,string,multipla escolha,Hétero; Lésbica; Bissexual; Gay; Pansexual; Assexual; Prefiro não responder; Outra
+Você se identifica com uma pessoa ...,string,multipla escolha,Negra; Parda; Indígena; Amarela; Branca; Prefiro não responder
+Você participa de algum grupo ou comunidade?,string,multipla escolha,AfroPython; PyLadies; Não; Outra
+É sua primeira vez participando da Python Brasil?,string,multipla escolha,Sim; Não
+O auxílio financeiro é fundamental para a sua participação da Python Brasil 2022?,string,multipla escolha,Sim; Não
+Quais são os auxílio que você necessita?,string,caixa de selecao,Ingresso; Alimentação; Hospedagem; Transporte aéreo/terrestre
+Qual dia planeja chegar ao evento?,datetime,data,
+Qual dia pretende voltar para sua cidade?,datetime,data,
+Você submeteu alguma atividade para a Python Brasil 2022?,string,multipla escolha,Sim; Não
+"Se você respondeu SIM na pergunta anterior, informe o tipo de atividade submetida:",string,caixa de selecao,Palestra; Tutorial; Sprint
+"Declaro ciência do uso e divulgação da imagem.
+
+A Python Brasil 2022 será transmitida e gravada, então ao marcar essa pergunta você autoriza a Python Brasil a utilizar e veicular os vídeos referidos e as outras mídias de divulgação no site da organização na Internet, nas redes sociais, pôsteres de divulgação da Python Brasil 2022 a serem veiculados no Brasil e/ou no exterior a fim de publicidade institucional.",string,multipla escolha,Sim
+Você conhece e concorda em respeitar o Código de Conduta da Python Brasil durante todo o evento?,string,multipla escolha,Sim
+"TERMO PARA TRATAMENTO DE DADOS PESSOAIS
+
+Conforme artigo 5º, inciso X, da Lei Geral de Proteção de Dados Pessoais (nº 13.709/2018), entende-se por ""tratamento"" a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração.
+
+Em atendimento ao artigo 8º, parágrafo 4º, este formulário guarda finalidade determinada, sendo esta:
+
+• Solicitação de auxílio financeiro para paricipação da PyBR2022.
+
+Após o encerramento da Python Brasil 2022, os dados pessoais constantes nas solicitações serão eliminados.",string,multipla escolha,Sim
