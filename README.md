@@ -33,7 +33,7 @@ Disponibilização de auxílio alimentação no valor de R$ 31,91/dia*, sendo o 
 
 * **Transporte aéreo/terrestre**
 
-Fornecimento de passagem aérea ou terrestre ida e/ou volta para pessoa participante com inscrição confirmada ou solicitante do tipo de auxílio “Ingresso”.
+Fornecimento de passagem aérea ou terrestre interestadual ida e/ou volta para pessoa participante com inscrição confirmada ou solicitante do tipo de auxílio “Ingresso”.
 
 * **Hospedagem**
 
