@@ -2,7 +2,7 @@
 
 Olá,
 
-Estamos muito felizes que vamos te encontra na Python Brasil!!!
+Estamos muito felizes que vamos te encontrar na Python Brasil!!!
 
 Em anexo está a sua passagem aérea/terrestre. Tentamos ao máximo adequar o horário sua preferência de viagem, mas pode ser que não tenhamos conseguido.
 
